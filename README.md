@@ -204,3 +204,7 @@ Plus one environment variable:
 | Key | Value |
 |-----|-------|
 | `CHAT_PASSWORD` | Your chosen team password |
+
+
+
+***Made by Shaz Vale April 2026 for friends who are using Notion with AI partners.*** 
